@@ -1,0 +1,16 @@
+# Node modules
+
+
+# Adonis directory for storing tmp files
+
+
+# Environment variables, never commit this file
+
+
+# The development sqlite file
+database/development.sqlite
+
+.idea
+# node_modules
+node_modules
+.env
